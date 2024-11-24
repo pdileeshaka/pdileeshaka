@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pasindu</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+
 
 - 📫 How to reach me **pdileeshaka@gmail.com**
 
